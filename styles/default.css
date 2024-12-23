@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: auto;
+}
+.khung{
+	width: 1200px;
+	height: 200px;
+}
+.anh1{
+	float: left;
+}
+.tren{
+	width: 1200px;
+	height: 70px;
+}
+.menutren{
+	padding-top: 25px;
+	float: left;
+}
+.khung2{
+	width: 500px;
+	height: 25px;
+	border-radius: 5px;
+}
+.menutren2{
+	padding-top: 30px;
+	padding-left: 780px;
+}
+.menutren2 a{
+	text-decoration: none;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: black;
+	padding: 10px;
+}
+.menutren2 a:hover{
+	color: aqua;
+}
+.duoi{
+	width: 1200px;
+	height: 40px;
+	border: solid 1px #E0E0E0;
+}
+.anh2{
+	float: left;
+}
+.menuduoi a{
+	text-decoration: none;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	padding: 5px;
+	color:#484848;
+}
+.menuduoi a:hover{
+	color: aqua;
+}
+.menuduoi{
+	padding-top: 15px;
+}
